@@ -15,21 +15,20 @@ public class Main {
 //        stack.peek();
 
         //Queue
-
-        Queue queue = new Queue(5);
-
-        queue.insert(3);
-        queue.insert(7);
-        queue.insert(9);
-        queue.insert(2);
-
-        queue.displayQueue();
-
-        queue.remove();
-        queue.displayQueue();
-
-        queue.remove();
-        queue.displayQueue();
+//        Queue queue = new Queue(5);
+//
+//        queue.insert(3);
+//        queue.insert(7);
+//        queue.insert(9);
+//        queue.insert(2);
+//
+//        queue.displayQueue();
+//
+//        queue.remove();
+//        queue.displayQueue();
+//
+//        queue.remove();
+//        queue.displayQueue();
 
 
 
